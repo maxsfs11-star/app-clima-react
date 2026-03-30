@@ -88,7 +88,7 @@ function App() {
   return (
     <div className={`container ${pegarClasseClima()}`}>
       <div className="card">
-        <h1 className="titulo">App de Clima 🌤️</h1>
+        <h1 className="titulo">Clima 🌤️</h1>
 
         <div className="busca-area">
           <input
